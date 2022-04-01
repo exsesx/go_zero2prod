@@ -1,6 +1,7 @@
 # Zero to Production in Go
 
 [![golangci-lint](https://github.com/exsesx/go_zero2prod/actions/workflows/golangci-lint.yml/badge.svg)](https://github.com/exsesx/go_zero2prod/actions/workflows/golangci-lint.yml)
+[![go-version](https://img.shields.io/badge/go-1.18-blue)](./go.mod)
 
 My **Go** learning process ...
 
